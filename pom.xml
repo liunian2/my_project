@@ -515,7 +515,7 @@
   
   <!-- 依赖的版本 -->
   <properties>
-  	  <org.springframework.version>3.1.2.RELEASE</org.springframework.version>
+  	  <org.springframework.version>3.2.5.RELEASE</org.springframework.version>
       <!-- <org.springframework.version>4.3.8.RELEASE</org.springframework.version> -->
   </properties>
   
